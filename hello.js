@@ -18,8 +18,13 @@ var nodefinido = null;
 var numberone = 1;
 var myName = "Milton";
 var mySurname = "Rodriguez";
+let numberone = 1;
 
 console.log(number);
 console.log(myName);
 console.log(mySurname);
 console.log("Hola mundo!!!");
+
+for (let i=0; i<90; i++){
+    console.log(i+1);
+}
